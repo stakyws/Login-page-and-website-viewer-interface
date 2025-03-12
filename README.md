@@ -14,20 +14,18 @@
 <h1>Database server connection code modifications</h1>
 <p>In my personal code, the name of my SQL server database is my server. I named it with a different name, so there are some simple steps that you have to do.</p>
 <ul>
-  <li>1- Open the project file on Visual Studio and go to the Form 1, Form 5 and Form 6 code file and modify the server name from STAKYWS to the name of your server on the SQL Server as you can see in the image the text in the code that you have to modify <br>
+  <li>1- Open the project file on Visual Studio and go to the Form 1, Form 5 and Form 6 code file and modify the server name from STAKYWS to the name of your server on the SQL       Server as you can see in the image the text in the code that you have to modify
     <li>
       <p align="center">
         <img src="img/database.png" alt="Main interface">
      </p>
     </li>
   
-     <li>You should also replace it with the name on the SQL Server marked in red, as in the picture.</li>
+      You should also replace it with the name on the SQL Server marked in red, as in the picture.
      
-     <li>
        <p align="center">
         <img src="img/server.png" alt="Main interface">
        </p>
-     </li>
   </li>
 </ul>
 
