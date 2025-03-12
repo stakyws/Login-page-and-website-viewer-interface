@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98819c61-05c2-4306-8db3-7e13985a50ec": {
+      "ProjectGuid": "98819c61-05c2-4306-8db3-7e13985a50ec",
+      "DisplayName": "اسم المستخدم وكلمه المرور",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
