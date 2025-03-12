@@ -20,13 +20,13 @@
         <img src="img/database.png" alt="Main interface">
      </p>
     </li>
-  
-      You should also replace it with the name on the SQL Server marked in red, as in the picture.
-     
-       <p align="center">
-        <img src="img/server.png" alt="Main interface">
-       </p>
   </li>
+  
+  <li> You should also replace it with the name on the SQL Server marked in red, as in the picture.</li>
+  
+  <li> <p align="center">
+        <img src="img/server.png" alt="Main interface">
+       </p></li>
 </ul>
 
   
